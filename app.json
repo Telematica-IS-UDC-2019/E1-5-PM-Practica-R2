@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Music Ramses 2021",
-    "slug": "music",
+    "slug": "e1-5-pm-practica-r2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "Integrantes del equipo:\n\n- GODINEZ MARTINEZ JESUS IVAN\n- IGLESIAS ALCARAZ JOSUE BENJAMIN\n- JIMENEZ COVARRUBIAS JUAN PABLO",
+    "githubUrl": "https://github.com/Telematica-IS-UDC-2019/E1-5-PM-Practica-R2"
   }
 }
